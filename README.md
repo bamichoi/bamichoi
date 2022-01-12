@@ -1,9 +1,9 @@
-- 👋 안녕하세요. 저는 @bamichoi 입니다.
-- 👀 프론트엔드 웹 개발을 공부중이에요 모바일 iOS 앱 개발과 AI에도 관심이 많아요.
-- 🌱 지금은 javascript 와 python 을 열심히 배우고 있어요.
-- 💞️ 현재 django 를 이용해 CINEACCA 프로젝트 빌드에 집중하고 있어요.
-- 📫 인스타DM : bamtoming / 메일 : cbs412@naver.com 
-- 🔗 개발 블로그 : https://bamichoi.github.io/
+- 안녕하세요. Bami 입니다.
+- 현재 프론트 엔드 개발자로 취업 준비중입니다.
+- 드디어 저의 첫번째 프로젝트 CINEACCA가 완성되었어요.
+- https://cineacca.com
+- 리액트js랑 코딩테스트 많이 연습하고 있어요(알고리즘 너무 어려워요ㅠㅠ)
+- 요즘은 Swift도 함께 배우고 있습니다:)
 
 <!---
 bamichoi/bamichoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
