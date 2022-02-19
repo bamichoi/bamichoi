@@ -1,4 +1,4 @@
-[![Blog](https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Github&logoColor=white)](https://bamichoi.github.io/) [![Portfolio](https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHubSponsors&logoColor=white)](https://beomseokchoi.com/) [![LINKTIN](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beomseok-choi-02b9a0228/) ![GMAIL](https://img.shields.io/badge/bschoi412@-EA4335?style=flat-square&logo=Gmail&logoColor=white)    
+[![Blog](https://img.shields.io/badge/Blog-E6526F?style=flat-square&logo=Github&logoColor=white)](https://bamichoi.github.io/) [![Portfolio](https://img.shields.io/badge/Portfolio-F4DFBA?style=flat-square&logo=GitHubSponsors&logoColor=white)](https://beomseokchoi.com/) [![LINKTIN](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beomseok-choi-02b9a0228/) ![GMAIL](https://img.shields.io/badge/bschoi412@-EA4335?style=flat-square&logo=Gmail&logoColor=white)    
 
 Hello, I am Beomseok Choi.
   
