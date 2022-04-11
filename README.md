@@ -6,7 +6,7 @@
 🙇🏻 Do you think you are not so smart?  
 🏃🏻‍♂️ Do you think you are late than others?  
     
-👊 Don't care about that.  
+👊 Don't care about it.  
 ⚡️ Just practce, practice and practice!  
  
 
